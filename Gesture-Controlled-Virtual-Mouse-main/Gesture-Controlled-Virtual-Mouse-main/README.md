@@ -199,10 +199,6 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
   ### Procedure
-  ```bash
-  
-  ```
-  For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
   
   Step 1: 
   ```bash
